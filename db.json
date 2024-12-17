@@ -15,6 +15,31 @@
       "name": "wiem",
       "role": "ROLE_USER",
       "id": 2
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "password1",
+      "id": 3
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fsfsf",
+      "id": 4
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fsfsf",
+      "id": 5
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fs",
+      "id": 6
+    },
+    {
+      "email": "wiembm2001@gmail.com",
+      "password": "fs",
+      "id": 7
     }
   ]
 }

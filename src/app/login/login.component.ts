@@ -21,7 +21,7 @@ export class LoginComponent {
     );
 
     // Navigate to the logged-in page after storing the token
-    this.router.navigateByUrl('/loggedIn');
+    this.router.navigateByUrl('/dashboard');
   }
 
 
