@@ -1,0 +1,20 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "email": "mohamedbenMohamed@gmail.com",
+      "password": "password",
+      "username": "ben mohamed",
+      "name": "mohamed",
+      "role": "ROLE_AMDIN"
+    },
+    {
+      "email": "wiembm@gmail.com",
+      "password": "password1",
+      "surname": "wiwi",
+      "name": "wiem",
+      "role": "ROLE_USER",
+      "id": 2
+    }
+  ]
+}
